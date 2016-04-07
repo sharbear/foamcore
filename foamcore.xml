@@ -1,5 +1,5 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="movement_setmotors" id="42" inline="true" x="21" y="37">
+  <block type="movement_setmotors" id="42" inline="true" x="-52" y="-333">
     <value name="BOTHMOVLEFT">
       <block type="math_number" id="52">
         <field name="NUM">760</field>
@@ -11,5 +11,4 @@
       </block>
     </value>
   </block>
-  <block type="movement_stop" id="133" x="600" y="601"></block>
 </xml>
