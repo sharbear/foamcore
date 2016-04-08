@@ -1,1 +1,24 @@
-<xml xmlns="http://www.w3.org/1999/xhtml"></xml>
+<xml xmlns="http://www.w3.org/1999/xhtml">
+  <block type="movement_leftmotor" id="28" inline="true" x="-81" y="-415">
+    <value name="MOVLEFT">
+      <block type="math_number" id="84">
+        <field name="NUM">7600</field>
+      </block>
+    </value>
+    <next>
+      <block type="movement_rightmotor" id="77" inline="true">
+        <value name="MOVRIGHT">
+          <block type="math_number" id="85">
+            <field name="NUM">7600</field>
+          </block>
+        </value>
+      </block>
+    </next>
+  </block>
+  <block type="math_number" id="86" x="50" y="-176">
+    <field name="NUM">0</field>
+  </block>
+  <block type="math_number" id="87" x="70" y="-136">
+    <field name="NUM">0</field>
+  </block>
+</xml>
