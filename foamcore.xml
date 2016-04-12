@@ -52,6 +52,9 @@
                                 <field name="NUM">5</field>
                               </block>
                             </value>
+                            <next>
+                              <block type="movement_stop" id="32"></block>
+                            </next>
                           </block>
                         </next>
                       </block>
