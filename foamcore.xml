@@ -53,7 +53,7 @@
                               </block>
                             </value>
                             <next>
-                              <block type="movement_stop" id="32"></block>
+                              <block type="movement_stop" id="15"></block>
                             </next>
                           </block>
                         </next>
